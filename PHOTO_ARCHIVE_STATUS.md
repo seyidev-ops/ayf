@@ -1,16 +1,10 @@
-# AYF social-media photographs: recovery status
+# AYF photographs: sources
 
-The supplied Facebook and Instagram profiles did not allow automated extraction in the current session. No photos from those accounts are packaged or claimed as official event documentation.
+Event photographs on the site were collected on 18 October 2026 from the foundation's own public social media accounts:
 
-## Approved, available original assets
-- Source-extracted full AYF logo and original icon from the supplied brand kit.
-- Source-extracted Gombe South Unity Cup crest from the supplied brand kit.
-- Historical articles linked on `/gallery.html` with dated match reports and competition coverage.
+- Facebook: https://www.facebook.com/AdamuYolaFDN (Unity Cup awards ceremony photos, champions trophy photo, 9th edition artwork)
+- Instagram: https://www.instagram.com/adamuyolafdn/ (award presentations, Zakari Akawu Player of the Match, December 2023 semi-final and final fixtures, June 2025 draw highlights, reel covers)
 
-## Image policy
-- Four previously generated programme images are labelled illustrative, never documentary.
-- No generic or mismatched football photos are represented as actual tournament events.
-- To complete real year-by-year photo albums, obtain Meta Download Your Information archives from the account administrator or original photographs with date/source information.
+Files live in `assets/photos/` (`*-sm.webp` are thumbnails). Programme pages without event photography (scholarships, vocational training, medical outreach, Principals' Cup) use AI-generated images: `assets/education-photo.webp`, `assets/skills-photo.webp`, `assets/medical-photo.webp`, `assets/schools-football-photo.webp`, `assets/community-football-photo.webp`. Replace them with real photographs as they become available.
 
-## Before launch
-Confirm use rights/consent and photographer credits, particularly for photographs of children.
+Only a limited set of photos is visible on these accounts without signing in. For a fuller archive, download the page's photos through Meta's "Download your information" tool and add them to `assets/photos/` and `gallery.html`.

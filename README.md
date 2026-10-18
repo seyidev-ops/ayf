@@ -1,4 +1,10 @@
-# Adamu Yola Foundation — website v1
+# Adamu Yola Foundation website (v2, October 2026 redesign)
+
+Shared styles: `assets/site.css`. Interactions (theme toggle, menus, gallery, form): `assets/site.js`. Brand files and favicons: `assets/brand/`. Event photos: `assets/photos/` (see PHOTO_ARCHIVE_STATUS.md).
+
+---
+
+## Earlier v1 notes
 
 **Domain:** https://adamuyolafoundation.org  
 **Build:** static HTML, CSS and vanilla JS; no npm installs, build step, database, or secret API keys.  
