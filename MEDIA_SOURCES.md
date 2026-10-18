@@ -1,7 +1,17 @@
-# Website media sources and approval status
+# Media source and authenticity register — 18 October 2026
 
-- `assets/ayf-logo-square.jpg`, `assets/ayf-logo.png`: derived from the foundation logo supplied in the conversation on 18 October 2026.
-- `assets/ayf-unity-airtel.jpg`, `assets/unity-cup-airtel-banner.jpg`, `assets/unity-cup-poster.jpg`: derived from the supplied foundation and Unity Cup artwork in the same conversation.
-- Gallery uses supplied brand artwork, not a comprehensive archive of original Facebook/Instagram photography. No inaccessible social posts have been represented as authentic event photos.
-- Scholarship, vocational training, medical outreach and Principals Cup photos must be added after authorised source images are made available. Repetition of the foundation logo is a temporary authentic fallback rather than depicting fictitious events.
-- The domain CNAME was absent from the live repository as of deployment. This media refresh intentionally does not recreate CNAME.
+## Original supplied assets
+- Foundation emblem: user-provided `adamu yola foundation.jpg`, used small in headers and footers without recolouring. Dominant original field is navy `#18255A`.
+- Unity Cup mark: isolated from the **left part only** of the user-provided `489686313_1178732614263014_582978088039924164_n.jpg` composite. The red Airtel brand and lower unrelated banners are excluded. `assets/unity-cup-emblem.png` and `assets/unity-cup-original-crop.jpg` are derived crops, not redrawn identity.
+
+## Illustrative visuals (NOT AYF event records)
+- `assets/community-football-photo.webp` and `assets/education-photo.webp`, `assets/skills-photo.webp`, `assets/medical-photo.webp`, `assets/schools-football-photo.webp` were generated as editorial *illustrations* of each programme theme.
+- These must **never** be captioned as original Adamu Yola Foundation events, beneficiaries, scholarship recipients, outreach patients, or team photographs.
+
+## External archive limitation
+- Direct Facebook and Instagram public post/photo archives were not available for reliable extraction. No original authenticated event photo could be recovered from those social sources.
+- Gallery accurately labels illustrations, shows no logo-as-photo tiles, and reserves real event photography until originals are provided.
+- Sourced historical stories are available in Stories & News. Third-party news photos were **not** republished without photo usage rights.
+
+## Future archive migration
+For each original image, retain source account/post URL, original caption, photographer/rights if known, event and date, programmes, consent where needed, descriptive alt text, and original-resolution copy. Replace labelled illustration thumbnails with actual dated event media once available.
