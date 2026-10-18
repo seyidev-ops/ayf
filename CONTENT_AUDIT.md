@@ -17,7 +17,7 @@ As of 18 October 2026. Only validated claims or user-provided programme scope ap
 | 2026 All Stars FC final victory | https://markerbeyondborder.blogspot.com/2026/01/football-unites-gombe-south-as-all.html | Historical reporting |
 | 2026 Shongo Dirago event collaboration | https://northeaststarlive.com/5860-2wca-urges-nigerians-to-embrace-culture-of-giving-at-un-day-of-charity/ | Historical reporting, no claimed individual contribution |
 | Gombe State Principals’ Cup for boys’ public schools, 11 LGAs; preliminaries to state finale | Foundation Oct 2026 sponsorship letter | Planned initiative, **no claim registration is open** |
-| Contact No. 46, Billiri Street, Shongo Estate, Gombe State, Nigeria / +2348120638440 / ayt2018foundation@gmail.com | `AYT_Foundation_Letterhead.docx` dated 6 Oct 2026 | Presented on contact page; administrator to verify before launch |
+| Contact No. 46, Billiri Street, Shongo Estate, Gombe State, Nigeria / +2348120638440 / adamuytfoundation@gmail.com | `AYT_Foundation_Letterhead.docx` dated 6 Oct 2026 | Presented on contact page; administrator to verify before launch |
 | Logo monogram AYF, visuals, website values editorial text | Original site-design work | Provisional; not represented as approved logo or formal mission |
 
 ## Unverified / deliberately omitted

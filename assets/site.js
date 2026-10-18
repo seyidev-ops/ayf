@@ -141,7 +141,7 @@
       const label = sel.options[sel.selectedIndex].text;
       const subject = encodeURIComponent(`${label}: message from ${v('name')}`);
       const body = encodeURIComponent(`Name: ${v('name')}\nEmail: ${v('email')}\nPhone: ${v('phone') || 'Not provided'}\nTopic: ${label}\n\n${v('message')}`);
-      location.href = `mailto:ayt2018foundation@gmail.com?subject=${subject}&body=${body}`;
+      location.href = `mailto:adamuytfoundation@gmail.com?subject=${subject}&body=${body}`;
       form.querySelector('.form-status').textContent = 'Your email app is opening with your message ready to send.';
     });
   }

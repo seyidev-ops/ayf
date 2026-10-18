@@ -27,7 +27,7 @@ For the apex domain (`@`), GitHub Pages commonly uses A records `185.199.108.153
 
 ## Pre-publication checks (required)
 1. Verify approved foundation name and old historical name. The site uses Adamu Yola Foundation and describes Adamu Yola Ture Foundation as a historical name. Letterhead says `AYT FOUNDATION`, IT/NO `117968`; registration and legal name are **not** asserted on the public pages.
-2. Verify contact: **No. 46, Billiri Street, Shongo Estate, Gombe State, Nigeria**, **+234 812 063 8440**, **ayt2018foundation@gmail.com** (from Oct 2026 foundation letterhead).
+2. Verify contact: **No. 46, Billiri Street, Shongo Estate, Gombe State, Nigeria**, **+234 812 063 8440**, **adamuytfoundation@gmail.com** (from Oct 2026 foundation letterhead).
 3. Get official approved brand logo. **The text AYF monogram and decorative favicon are provisional identity treatments, not authenticated organisational logos.** Swap before public launch if required.
 4. Confirm the mission, vision, values, board members and approved founder biography. None are fabricated.
 5. Obtain original foundation programme photographs and rights/permissions. Existing SVG drawings are illustrative.
