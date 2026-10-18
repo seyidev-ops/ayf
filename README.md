@@ -2,7 +2,7 @@
 
 **Domain:** https://adamuyolafoundation.org  
 **Build:** static HTML, CSS and vanilla JS; no npm installs, build step, database, or secret API keys.  
-**Release date:** draft assembled 18 October 2026; **not published or live**.
+**Release date:** first repository commit 18 October 2026; this revision fixes nested GitHub Pages routes. Live DNS and GitHub Pages configuration require independent verification.
 
 ## Included
 - Homepage, About, five dedicated programme pages, programme index, sourced news, Get involved, Contact, Privacy and a custom 404 page.
@@ -35,3 +35,6 @@ For the apex domain (`@`), GitHub Pages commonly uses A records `185.199.108.153
 - Copy changes to a programme should be made in its corresponding `programs/<slug>.html` and, when applicable, in the homepage/index cards.
 - If you move to a CMS later, this codebase can be converted to templates/content collections.
 - To revise the editorial research, see `CONTENT_AUDIT.md`.
+
+## GitHub Pages project-subpath fix
+All local href/src links must remain relative so both `seyidev-ops.github.io/ayf/` and `adamuyolafoundation.org/` work. Do not convert paths back to `/assets/...` or `/programs/...`. Social preview images and apple-touch icons are included in `assets/`.
