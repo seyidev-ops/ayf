@@ -488,3 +488,6 @@ section{position:relative}
 .post .brand-fill{display:grid;place-items:center;background:linear-gradient(135deg,#18255A,#1E4E83);perspective:600px}
 .post .brand-fill .levitate{width:34%}
 .post .brand-fill .ayf-mark{width:100%;height:auto;--mark-ink:#fff;--mark-cup:#8EC3EA;--mark-arc:#8FE0C2}
+/* Single-column layouts: sticky columns would overlap the content that follows */
+@media (max-width:860px){.sticky{position:static}}
+@media (max-width:520px){.stage .orbit-label{font-size:.76rem;padding:8px 12px}}
