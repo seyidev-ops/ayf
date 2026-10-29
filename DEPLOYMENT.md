@@ -41,7 +41,7 @@ DNS changes can take time; secure HTTPS only after DNS resolves and the certific
 
 ## 4. Content approval
 
-Confirm the foundation's official name/logo, contact information, registration details, mission/vision, schools competition status, programme intake status and photo rights before a public launch. Refer to `CONTENT_AUDIT.md`.
+Confirm the foundation's official name/logo, contact information, registration details, mission/vision, schools competition status, programme intake status and photo rights before a public launch.
 
 ## 5. Smoke test after deploy
 

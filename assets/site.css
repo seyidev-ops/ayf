@@ -553,3 +553,6 @@ section{position:relative}
 @media (max-width:460px){.foot-grid{grid-template-columns:1fr}.site-footer a,.site-footer li{white-space:normal}}
 .foot-logo{margin-bottom:8px}
 .foot-brand p.foot-tag{font-style:italic;font-size:.82rem;color:#9FB4D3;margin:0 0 16px}
+.unity .emblem{width:150px;height:150px;border-radius:50%;filter:drop-shadow(0 14px 24px rgba(0,0,0,.45))}
+.tile.big .tile-badge{width:96px;height:96px}
+.tile.big:has(.tile-badge) .tile-body{padding-right:130px}
