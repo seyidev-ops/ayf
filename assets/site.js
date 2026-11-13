@@ -148,3 +148,11 @@
 
   d.querySelectorAll('[data-year]').forEach(x => x.textContent = new Date().getFullYear());
 })();
+
+/* Open a filter from the link's #hash, e.g. gallery.html#education */
+(() => {
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (!h) return;
+  const b = document.querySelector(`.filters button[data-filter="${CSS.escape(h)}"]`);
+  if (b) { b.click(); b.closest('.filters')?.scrollIntoView({ block: 'start' }); }
+})();
